@@ -31,7 +31,6 @@ import io.jsonwebtoken.Jwt;
 import io.jsonwebtoken.JwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.impl.TextCodec;
-import java.lang;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.Date;
